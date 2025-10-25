@@ -1,0 +1,167 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 3054",
+  "title": "A bill to amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 and the Homeland Security Act of 2002 to enhance efforts to combat the trafficking of children.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T05:16:14Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T05:16:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ted Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsey Graham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsey Graham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marsha Blackburn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marsha Blackburn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Roland Tillis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Roland Tillis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cynthia M. Lummis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cynthia M. Lummis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Cassidy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tommy Tuberville",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tommy Tuberville\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric S. Schmitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eric S. Schmitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katie Britt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Katie Britt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Cornyn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Cornyn\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3054.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/3054",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001098",
+      "G000359",
+      "B001243",
+      "T000476",
+      "L000571",
+      "C001075",
+      "B001305",
+      "T000278",
+      "S001227",
+      "B001319"
+    ],
+    "sponsor_bioguides": [
+      "C001056"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T05:16:14Z"
+  }
+}

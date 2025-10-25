@@ -1,0 +1,248 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 3048",
+  "title": "A bill to amend the Controlled Substances Act to allow for the use of telehealth in substance use disorder treatment, and for other purposes.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T05:16:16Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T05:16:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sheldon Whitehouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheldon Whitehouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark R. Warner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark R. Warner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Roland Tillis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Roland Tillis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy M. Kaine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kaine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben R. Luj\u00e1n",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben R. Luj\\u00e1n\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine Cortez Masto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John W. Hickenlooper",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John W. Hickenlooper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Wyden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Wyden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin Heinrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Martin Heinrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Klobuchar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy Klobuchar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John K. Fetterman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John K. Fetterman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward J. Markey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edward J. Markey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ruben Gallego",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ruben Gallego\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elizabeth A. Warren",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elizabeth A. Warren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Welch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Welch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Booker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Murkowski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisa Murkowski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3048.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/3048",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "W000802",
+      "W000805",
+      "T000476",
+      "K000384",
+      "S001198",
+      "L000570",
+      "C001113",
+      "M001176",
+      "H000273",
+      "W000779",
+      "H001046",
+      "K000367",
+      "F000479",
+      "K000377",
+      "M000133",
+      "G000574",
+      "W000817",
+      "W000800",
+      "B001288"
+    ],
+    "sponsor_bioguides": [
+      "M001153"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T05:16:16Z"
+  }
+}

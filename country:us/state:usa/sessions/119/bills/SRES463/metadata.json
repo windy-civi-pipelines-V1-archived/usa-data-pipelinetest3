@@ -1,0 +1,122 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 463",
+  "title": "A resolution expressing condemnation of the Chinese Communist Party's persecution of religious minority groups, including Christians, Muslims, and Buddhists and the detention of Pastor \"Ezra\" Jin Mingri and leaders of the Zion Church, and reaffirming the United States' global commitment to promote religious freedom and tolerance.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Foreign Relations.",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T05:16:19Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T05:16:19Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Christopher A. Coons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher A. Coons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelley Moore Capito",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shelley Moore Capito\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Cassidy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsey Graham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsey Graham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chuck Grassley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chuck Grassley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Cruz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ted Cruz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres463.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/463",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001088",
+      "C001047",
+      "C001075",
+      "G000359",
+      "G000386"
+    ],
+    "sponsor_bioguides": [
+      "C001098"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T05:16:19Z"
+  }
+}
